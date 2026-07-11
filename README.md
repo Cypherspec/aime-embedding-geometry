@@ -3,6 +3,7 @@
 Advanced computational analysis of AIME problem technique classification.
 Accompanies: "Probing Technique-Structured Geometry in AIME Embedding Space"
 
+Paper: Nischay Kommisetty - Probing Technique-Structured Geometry in AIME Embedding Space_ A Computational and Statistical Analysis of Mathematical Technique Classification Across Four Decades of Competition Mathemati (5).pdf
 ## Modules
 
 - `embedding_geometry.py`   — Riemannian geometry of TF-IDF manifold; sectional curvature estimation
