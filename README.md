@@ -1,7 +1,7 @@
 # AIME Advanced Analysis Suite
 
 Advanced computational analysis of AIME problem technique classification.
-Accompanies: "Probing Technique-Structured Geometry in AIME Embedding Space"
+Accompanies: "A Multi-Scale Computational Analysis of Mathematical Structure, Embedding Geometry, and Topological Invariants in the AIME Corpus"
 
 Paper: Nischay Kommisetty - Probing Technique-Structured Geometry in AIME Embedding Space_ A Computational and Statistical Analysis of Mathematical Technique Classification Across Four Decades of Competition Mathematics.pdf
 ## Modules
